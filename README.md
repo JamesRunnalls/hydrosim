@@ -25,6 +25,7 @@ Requirements
 - Large RAM, high performance CPU
 - Ability to run computationally intensive simulations in parrallel
 - Limited storage requirements (< 100GB)
+- May need to be runnning windows (possible)
 
 ## Hardware Options
 
@@ -38,6 +39,7 @@ Pros:
 - No monthly costs
 - Storage is very cheap
 - Easy to align with existing procurement proceedures and include in project budget
+- Full Windows support
 
 Cons:
 - Large upfront cost (>$10K)
