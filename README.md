@@ -3,6 +3,8 @@ Repository for information related to the Hydrosim project.
 
 ## Compute Requirements
 
+For the project two distinct servers are required with different characteristics:
+
 ### Web Server
 
 Server to host the node.js API that will make the data available to the front end & for direct download of the simulation results. 
