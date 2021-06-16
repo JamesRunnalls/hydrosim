@@ -38,6 +38,7 @@ Pros:
 - No monthly costs
 - Storage is very cheap
 - Easy to align with existing procurement proceedures and include in project budget
+
 Cons:
 - Large upfront cost (>$10K)
 - Maintenance and repairs limited to office hours
@@ -58,6 +59,7 @@ Pros:
 - No upfront cost
 - Many services in one place (database, frontend (AWS amplify), S3 etc.)
 - 24hr service and maintenace
+
 Cons:
 - Monthly costs can grow rapidly (hard to align with project budget)
 - Elastic block storage is expensive
@@ -72,6 +74,7 @@ Pros:
 - Many services in one place (database, frontend (AWS amplify), S3 etc.)
 - 24hr service and maintenace
 - Monthly cost is predictable and lower than for virtual machines
+
 Cons:
 - Difficult to scale
 - Costly to have multiple servers
