@@ -11,7 +11,7 @@ Server to host the node.js API that will make the data available to the front en
 
 Requirements
 
-- Large storage capacity (>10GB)
+- Large storage capacity (>10TB)
 - The ability to read from NetCDF files and return JSON files (rules out static file providers like S3?)
 - Multiple cores to handle API requests in parrallel
 - Limited computation requirements
