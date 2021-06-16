@@ -12,7 +12,7 @@ Server to host the node.js API that will make the data available to the front en
 Requirements
 
 - Large storage capacity (>10GB)
-- The ability to read from NetCDF files and return JSON files
+- The ability to read from NetCDF files and return JSON files (rules out static file providers like S3?)
 - Multiple cores to handle API requests in parrallel
 - Limited computation requirements
 
@@ -60,6 +60,7 @@ Pros:
 - 24hr service and maintenace
 Cons:
 - Monthly costs can grow rapidly (hard to align with project budget)
+- Elastic block storage is expensive
 
 ### Dedicated Cloud Server (e.g. OVHcloud)
 
